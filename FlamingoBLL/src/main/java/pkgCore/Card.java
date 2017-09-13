@@ -1,7 +1,7 @@
 package pkgCore;
 
 import pkgEnum.*;
-
+//hey
 public class Card implements Comparable {
 
 	public static eRank eRank;
